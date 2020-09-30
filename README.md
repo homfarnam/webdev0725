@@ -37,9 +37,9 @@
 <code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3uy9pW5seuaHgNcT9iwQF5sVQDslBGa7Glg&usqp=CAU"></code>
 **Data**
 <br>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
+<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwMFcJQEyPckfMxkdHYLhPA5oEWnZNCkH44Q&usqp=CAU"></code>
+<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_tVqCOJhNQG_7U9X8j3OXNvVrU2f8Jp-FUQ&usqp=CAU"></code>
+<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGrMytxahRQyU9HhjSmrIKXMh_cJc7CshROw&usqp=CAU"></code>
 **Apple**
 <br>
 
