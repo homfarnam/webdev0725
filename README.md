@@ -1,5 +1,3 @@
-### Hi there 👋
-![Full Stack Web Developer ](https://i.ibb.co/JxV6WZG/Name-Banner.png)
 
 ## Tech Stack
 
