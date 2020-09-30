@@ -62,14 +62,7 @@
 <br>
 </td>
 </tr>
-<tr>
-<td>
-	<img width="381" alt="code-two" src="https://user-images.githubusercontent.com/208079/32584274-5123d4ac-c4ac-11e7-85c0-66ce58c5ef01.png">
-</td>
-<td>
-	<img width="307" alt="render-two" src="https://user-images.githubusercontent.com/208079/32584277-539e76ec-c4ac-11e7-9f1a-067b50a7d71f.png">
-</td>
-</tr>
+
 </table>
 
 
