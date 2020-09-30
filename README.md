@@ -68,5 +68,5 @@
 
 ## Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=webdev0725&show_icons=true&hide=commits&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=webdev0725&show_icons=true&hide=commits)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdev0725&hide=css)](https://github.com/anuraghazra/github-readme-stats)
