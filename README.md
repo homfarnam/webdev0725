@@ -55,4 +55,5 @@
 ## Statistics
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=webdev0725&show_icons=true&hide=commits)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josefleventon&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdev0725&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=webdev0725)](https://github.com/anuraghazra/github-readme-stats)
