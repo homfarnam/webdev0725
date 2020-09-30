@@ -1,6 +1,27 @@
 
 ## Tech Stack
 
+> Backend Web development skills
+* PHP/ CI/ Laravel
+* Node.js, Express/Serverless
+* Ruby on Rails
+* Python/ Flask / Django
+* C/C#, ASP.NET
+
+> Frontend web development skills
+*  React/React Native Stack
+* React, Redux Thunk, Redux saga, Redux for Javascript, MobX
+* React Native CLI, Expo, PWA, Chrome Extension
+* HTML5/CSS3, SASS/LESS, Canvas
+* ES6, ES7 / JSX / Babel / Webpack
+* Reactstrap, Reactbootstrap, BS4,  Material UI, Semantic UI and Antd
+* Typescript, GraphQL, SSR, Next.js , Docker
+* Next.js, Gatsby
+* Vue.js, Vuex
+
+> Database: 
+* MySQL, MongoDB, DynamoDB, PostgreSQL, NoSQL
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
